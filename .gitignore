@@ -1,82 +1,10 @@
-# ===============================
-# Datasets
-# ===============================
+# Ignore dataset ONLY
 data/
-download_data.py
 
-# ===============================
-# Model outputs & checkpoints
-# ===============================
-checkpoints/
-best_model.pth
-final_result/
-img_result/
-results/
-images/
-
-# ===============================
-# Logs & TensorBoard
-# ===============================
-logs/
-*.log
-*.txt
-events.out.tfevents.*
-
-# ===============================
 # Python cache
-# ===============================
 __pycache__/
 *.pyc
-*.pyo
 
-# ===============================
-# Virtual Environment
-# ===============================
+# Virtual environment (optional but recommended)
 venv/
 
-# ===============================
-# OS / Editor junk
-# ===============================
-.DS_Store
-.vscode/
-# ===============================
-# Datasets
-# ===============================
-data/
-download_data.py
-
-# ===============================
-# Model outputs & checkpoints
-# ===============================
-checkpoints/
-best_model.pth
-final_result/
-img_result/
-results/
-images/
-
-# ===============================
-# Logs & TensorBoard
-# ===============================
-logs/
-*.log
-*.txt
-events.out.tfevents.*
-
-# ===============================
-# Python cache
-# ===============================
-__pycache__/
-*.pyc
-*.pyo
-
-# ===============================
-# Virtual Environment
-# ===============================
-venv/
-
-# ===============================
-# OS / Editor junk
-# ===============================
-.DS_Store
-.vscode/
