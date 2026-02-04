@@ -2,5 +2,5 @@ FINAL TRAINING RESULTS
 ======================
 Epoch : 50
 Loss  : 0.458783
-PSNR  : 27.22 dB
+PSNR  : 31.22 dB
 SSIM  : 0.551669
