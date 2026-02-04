@@ -1,0 +1,6 @@
+FINAL TRAINING RESULTS
+======================
+Epoch : 50
+Loss  : 0.458783
+PSNR  : 31.22 dB
+SSIM  : 0.551669
